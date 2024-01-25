@@ -9,4 +9,4 @@ Steps:
 3. Run main.py
 
 Output Example
-![](./jet output sample.png)
+![](./jets output sample.png)
