@@ -8,5 +8,7 @@ Steps:
    * pip install opencv-python
 3. Run main.py
 
-Output Example
+
+#### Vehicles Detection, Tracking and Counting 
+
 ![](./jets output sample.png)
