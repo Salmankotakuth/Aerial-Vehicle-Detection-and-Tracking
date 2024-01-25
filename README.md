@@ -10,4 +10,4 @@ Steps:
 
 
 #### Output Example
-![](./jets output sample.png)
+![](./sample.png)
