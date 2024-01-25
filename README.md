@@ -9,6 +9,5 @@ Steps:
 3. Run main.py
 
 
-#### Vehicles Detection, Tracking and Counting 
-
+#### Output Example
 ![](./jets output sample.png)
